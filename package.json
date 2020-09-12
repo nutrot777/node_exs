@@ -14,7 +14,7 @@
     "express": "4.17.1",
     "express-session": "1.16.2",
     "mongoose": "5.7.1",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "uuid": "3.3.3"
   }
 }
